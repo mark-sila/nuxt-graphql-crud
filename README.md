@@ -7,7 +7,7 @@ Creating CRUD system using Nuxt and Apollo
 ### Dependencies:
 
 * [Nuxt](https://nuxt.com/docs/getting-started/installation)
-* [NuxtApollo](https://apollo.nuxtjs.org)
+* [Vuetify](https://vuetifyjs.com/en)
 
 
 ### Installation:
