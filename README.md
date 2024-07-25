@@ -8,7 +8,7 @@ Creating TodoList using Nuxt with GraphQL with Login Authentication
 
 * [Nuxt](https://nuxt.com/docs/getting-started/installation)
 * [Vuetify](https://vuetifyjs.com/en)
-* [GraphQl Request](https://nuxt.com/modules/graphql-request)
+* [GraphQL Request](https://nuxt.com/modules/graphql-request)
 
 
 ### Installation:
