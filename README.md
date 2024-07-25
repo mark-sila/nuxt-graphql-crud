@@ -1,6 +1,6 @@
 # Nuxt GraphQL CRUD
 
-Creating TodoList using Nuxt with GraphQL
+Creating TodoList using Nuxt with GraphQL with Login Authentication
 
 ## Installation
 
@@ -8,6 +8,7 @@ Creating TodoList using Nuxt with GraphQL
 
 * [Nuxt](https://nuxt.com/docs/getting-started/installation)
 * [Vuetify](https://vuetifyjs.com/en)
+* [GraphQl_Request](https://nuxt.com/modules/graphql-request)
 
 
 ### Installation:
