@@ -1,6 +1,6 @@
-# Nuxt Apollo CRUD
+# Nuxt GraphQL CRUD
 
-Creating CRUD system using Nuxt and Apollo
+Creating TodoList using Nuxt with GraphQL
 
 ## Installation
 
